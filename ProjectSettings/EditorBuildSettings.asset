@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/UnityLineage/Scenes/DemoDarkFemale.unity
     guid: 1f250cd687e124a4ea2807ad48827c8f
   - enabled: 1
-    path: Assets/UnityLineage/Scenes/DemoRagdoll.unity
+    path: Assets/UnityLineage/Models/Characters/DarkFemale/Scenes/DemoRagdoll.unity
     guid: 6aa59003aadefe940b988b8574210eb7
   m_configObjects: {}
