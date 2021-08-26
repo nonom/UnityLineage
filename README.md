@@ -42,6 +42,11 @@ https://helpx.adobe.com/creative-cloud/help/mixamo-rigging-animation.html
 https://docs.unity3d.com/2018.4/Documentation/Manual/wizard-RagdollWizard.html
 
 
-## WebGL build
+## WebGL demo
 
 https://simmer.io/@nonom/humanmale
+
+
+# License
+
+All models are copyrighted by NCSoft and cannot be used in any commercial game.
