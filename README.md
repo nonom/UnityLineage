@@ -1,7 +1,5 @@
 # unitylineage
 
-![DarkFemale](https://i.imgur.com/Q9jYpD2.png)
-
 ![HumanMale](https://i.imgur.com/iytvjRn.png)
 
 ## What's up?
@@ -17,6 +15,7 @@ This is a case of study for Unity 2020+. All credits are going to Mixamo, Turbos
 - Added Third Person Controller from Ethan to the rigged humanoids.
 - Added two scenes: DemoDarkFemale and DemoHumanMale. 
 
+![DarkFemale](https://i.imgur.com/Q9jYpD2.png)
 
 ## Third party credits:
 
@@ -25,7 +24,7 @@ This is a case of study for Unity 2020+. All credits are going to Mixamo, Turbos
 
 https://www.turbosquid.com/3d-models/free-3ds-mode-lineage-2/359632
 
-### Human Male model from RigModels.
+### Human Male from RigModels.
 
 http://rigmodels.com/model.php?view=model__5EU2LZJ96CYHS1WTCFK42WQON
 
