@@ -6,14 +6,11 @@
 
 This is a case of study for Unity 2020+. All credits are going to Mixamo, Turbosquid and Rigmodels freebies.
 
-- Added rigged humanoid DarkFemale prefab.
-- Added rigged generic DarkFemale prefab.
-- Added a few generic free animations from Mixamo.
-- Added rigged humanoid HumanMale prefab.
-- Added rigged generic HumanMale prefab.
-- Added updated standard assets from Unity.
-- Added Third Person Controller from Ethan to the rigged humanoids.
-- Added two scenes: DemoDarkFemale and DemoHumanMale. 
+- Added rigged humanoid and generic DarkFemale prefab.
+- Imported a few generic free animations from Mixamo.
+- Added rigged humanoid and generic HumanMale prefab.
+- Updated standard assets from Unity.
+- Added third person controller to rigged humanoids.
 
 ![DarkFemale](https://i.imgur.com/Q9jYpD2.png)
 
@@ -45,3 +42,6 @@ https://helpx.adobe.com/creative-cloud/help/mixamo-rigging-animation.html
 https://docs.unity3d.com/2018.4/Documentation/Manual/wizard-RagdollWizard.html
 
 
+## WebGL build
+
+https://simmer.io/@nonom/humanmale
